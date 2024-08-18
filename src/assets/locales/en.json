@@ -1,13 +1,13 @@
 {
   "about": {
-    "description": "sudo-flix is a fork of movie-web that is ensured to stay up even after the shutdown of movie-web.app. sudo-flix.lol runs on a private, self-hosted VPS. I run this site at a loss; there are no ads due to my beliefs in free media.",
+    "description": "Duhh-Mov is back. Unfortunately, we were taken offline after the shutdown of our beloved Movie-Web but we are back and better than ever! This is hosted privately.",
     "faqTitle": "Common questions",
     "q1": {
-      "body": "sudo-flix does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by sudo-flix, everything is through this searching mechanism.",
+      "body": "Duhh-Mov does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by Duhh-Mov, everything is through this searching mechanism.",
       "title": "Where does the content come from?"
     },
     "q2": {
-      "body": "It's not possible to request a show or movie, sudo-flix does not manage any content. All content is viewed through sources on the internet.",
+      "body": "It's not possible to request a show or movie as I do not manage any content. All content is viewed through sources on the internet.",
       "title": "Where can I request a show or movie?"
     },
     "q3": {
@@ -19,33 +19,33 @@
       "title": "What about my data and stuff?"
     },
     "q5": {
-      "body": "Well sudo-flix has a twitter account that can be found in the footer of this page as well as a link to the source code on Github.",
+      "body": "No where. Go fuck yourself lmao",
       "title": "How can I find out more?"
     },
-    "title": "About sudo-flix (^▽^)"
+    "title": "About Duhh-Mov (I hate you all)"
   },
   "actions": {
-    "copied": "Copied",
+    "copied": "I have copied this to your clipboard faggot!",
     "copy": "Copy"
   },
   "auth": {
-    "createAccount": "Don't have an account yet 😬 <0>Create an account.</0>",
+    "createAccount": "Nigga you don't got an account😬 <0>Create an account jigaboo.</0>",
     "deviceNameLabel": "Device name",
-    "deviceNamePlaceholder": "Personal phone",
+    "deviceNamePlaceholder": "You're a broke ass nigga",
     "generate": {
-      "description": "Your passphrase acts as your username and password. Make sure to keep it safe as you will need to enter it to login to your account. <bold>Do NOT lose your passphrase!</bold>",
-      "next": "I have saved my passphrase",
+      "description": "Your passphrase acts as your username and password. Make sure to keep it safe as you will need to enter it to login to your account. If you lose it KYS UR FUCKED <bold>Do NOT lose your passphrase! I REPEAT DO NOT LOSE THIS SHIT!!</bold>",
+      "next": "I have saved my god damn passphrase",
       "passphraseFrameLabel": "Passphrase",
       "title": "Your passphrase"
     },
-    "hasAccount": "Already have an account? <0>Login here.</0>",
+    "hasAccount": "Already have an account? Well Login retard <0>Login</0>",
     "login": {
-      "description": "Please enter your passphrase to login to your account",
+      "description": "Please enter the passphrase I TOLD YOU NOT TO LOSE to login to your account",
       "deviceLengthError": "Please enter a device name",
       "passphraseLabel": "12-Word passphrase",
       "passphrasePlaceholder": "Passphrase",
       "submit": "Login",
-      "title": "Login to your account",
+      "title": "Login to your fucking account",
       "validationError": "Incorrect or incomplete passphrase /ᐠ. .ᐟ\\"
     },
     "register": {
@@ -60,20 +60,20 @@
     },
     "trust": {
       "failed": {
-        "text": "Did you configure it correctly?",
+        "text": "You didn't configure it right, retard.",
         "title": "Failed to reach server"
       },
       "noHostTitle": "Server not configured!",
-      "noHost": "The server has not been configured, therefore you cannot create an account",
-      "host": "You are connecting to <0>{{hostname}}</0> - please confirm you trust it before making an account...",
+      "noHost": "Sever Not Configured. This basically means I am a lazy cunt and didn't configure it. Get fucked.",
+      "host": "You are connecting to <0>{{hostname}}</0> - If you trust it click you trust it. If you don't trust it wtf are you even doing?",
       "no": "Go back",
-      "title": "Do you trust this server?",
-      "yes": "I trust this server 🤞"
+      "title": "DO YOU TRUST THIS SERVER?",
+      "yes": "Yes, I trust this server🖕"
     },
     "verify": {
       "description": "Please enter your passphrase from earlier to confirm you have saved it and to create your account",
       "invalidData": "Data is not valid",
-      "noMatch": "Passphrase doesn't match 😭",
+      "noMatch": "Passphrase doesn't match faggot",
       "passphraseLabel": "Your 12-word passphrase",
       "recaptchaFailed": "ReCaptcha validation failed",
       "register": "Create account",
@@ -83,25 +83,25 @@
   "errors": {
     "badge": "It broke 💀",
     "details": "Error details",
-    "reloadPage": "Reload the page",
+    "reloadPage": "Reload Page pls",
     "showError": "Show error details",
-    "title": "We encountered an error!"
+    "title": "It broke guys. Guess your not getting laid tonight."
   },
   "footer": {
     "legal": {
       "disclaimer": "Disclaimer ◝(ᵔᵕᵔ)◜",
-      "disclaimerText": "Please note: sudo-flix does not host any files itself but instead only display's content from 3rd party providers. Legal issues should be taken up with them."
+      "disclaimerText": "Please note: I do not host any files itself but instead only display's content from 3rd party providers. Legal issues should be taken up with them not me. *Cough* *cough* fuck you Warner, fuck you Universal suck my dick"
     },
     "links": {
-      "discord": "Discord",
-      "dmca": "DMCA",
-      "github": "GitHub",
-      "twitter": "Twitter"
+      "discord": "Discord for Kittens :3",
+      "dmca": "DMCA for legal",
+      "github": "GitHub for coders",
+      "twitter": "Twitter for Fatasses"
     },
-    "tagline": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)"
+    "tagline": "Watch shit for free with no ads ever because ads are for homosexuals!!!"
   },
   "global": {
-    "name": "sudo-flix",
+    "name": "Duhh-Mov",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
@@ -109,7 +109,7 @@
       "support": "Support",
       "login": "Login",
       "onboarding": "Setup",
-      "pagetitle": "{{title}} - sudo-flix",
+      "pagetitle": "{{title}} - Duhh-Mov",
       "register": "Register",
       "settings": "Settings",
       "jip": "Jip"
@@ -120,71 +120,71 @@
       "sectionTitle": "Bookmarks"
     },
     "continueWatching": {
-      "sectionTitle": "Continue Watching..."
+      "sectionTitle": "Continue Watching faggot"
     },
     "mediaList": {
-      "stopEditing": "Stop editing"
+      "stopEditing": "Stop editing nigga"
     },
     "search": {
-      "allResults": "That's all we have...",
-      "failed": "Failed to find media, try again!",
-      "loading": "Loading...",
-      "noResults": "We couldn't find anything :(",
+      "allResults": "Well shit, thats all we got. No results boohoo",
+      "failed": "Failed to find jackshit. Try again pls.",
+      "loading": "Loading your shit...",
+      "noResults": "I searched the server, backend, your closet, and still didn't find nun. Try something else!",
       "placeholder": {
-        "default": "What do you want to watch?",
+        "default": "Chat are we back??",
         "extra": [
-          "What are you in the mood for?",
-          "Should we delete your browser history?",
-          "What do you want to stream?",
-          "Sudo-Flix is the best site ever!",
+          "I fucking hate you.",
+          "I know you like Midget Porn..",
+          "You get 0 bitches",
+          "CHAT WE'RE BACK!!! YOUR BITCHES ARE GONNA COME BACK!!",
           "What's on your watchlist today?",
-          "How was your day?",
+          "Did you know, only Homosexuals like ads?",
           "My bad the site never works...",
-          "Isn't sudo-flix just the best?",
-          ">ᴗ<"
+          "Black people are the worst am I right?",
+          "🖕"
         ]
       },
       "empty": {
-        "default": "Welcome, find media to watch here!",
+        "default": "Chat, I got the site to work again",
         "extra": [
           "There's nothing here :(",
           "So empty...",
           "Such emptiness.",
-          "Hi new user :3"
+          "Sup Nigga. You like porn?"
         ]
       },
       "sectionTitle": "Search results",
-      "discoverMore": "Discover more",
-      "discover": "Discover"
+      "discoverMore": "Discover more shit",
+      "discover": "Discover shit"
     },
     "titles": {
       "day": {
-        "default": "What would you like to watch this afternoon?",
-        "extra": ["Have you seen Blazing Saddles?"],
-        "extra": ["Welcome to Sudo-Flix!"],
-        "extra": [" /ᐠ>ヮ<ᐟ\\ฅ"],
-        "extra": ["Viva la sudo-flix!"]
+        "default": "Go get a fucking job damn",
+        "extra": ["Do you not have a life or sumn?"],
+        "extra": ["Welcome to Duhh-Mov!"],
+        "extra": ["Noose + You = Happiness"],
+        "extra": ["Damn bro, you really BITCHLESS AHHAHA 🫵"]
       },
       "morning": {
-        "default": "What would you like to watch this morning?",
-        "extra": ["Can't go wrong with Friends"],
-        "extra": ["I hear The Expanse is popular"],
-        "extra": ["\"૮₍  ˶•⤙•˶ ₎ა"],
-        "extra": ["Viva la sudo-flix!"]
+        "default": "Morning retards!",
+        "extra": ["Wakey wakey, get to pickin!"],
+        "extra": ["Hey Drake, I heard you like em young!"],
+        "extra": ["Fun Fact: Did you know men named Jimmie are more prone to be homosexual?"],
+        "extra": ["Viva la Duhh-Mov!"]
       },
       "night": {
-        "default": "What would you like to watch tonight?",
-        "extra": ["Rick & Morty is great with friends!"],
-        "extra": ["Go smoke and watch The Simpsons!"],
-        "extra": ["(づ ᴗ _ᴗ)づ♡"],
-        "extra": ["Viva la sudo-flix!"]
+        "default": "NIGHT = Head",
+        "extra": ["Damnnn you got bitches now??"],
+        "extra": ["Time for bed bro turn on Infinity War and sleep"],
+        "extra": ["Remember: Wrap it before you tap it Jimmie!"],
+        "extra": ["🎅🏿"]
       },
       "420": {
-        "default": "What would you like to watch this 4/20?",
+        "default": "ITS 4/20 BITCHES!!! 🍃",
         "extra": ["Happy 4/20 🥳!"]
       },
       "69": {
-        "default": "Up for something spicy?",
+        "default": "Up for something SEXYYYYYY?",
         "extra": ["Happy 69 day 😘!"]
       }
     }
@@ -199,52 +199,52 @@
   },
   "navigation": {
     "banner": {
-      "offline": "Check your internet connection, silly goose! 🦢"
+      "offline": "Check your internet connection, you retard."
     },
     "menu": {
       "about": "About us",
       "logout": "Log out",
-      "register": "Sync to sudo-cloud",
-      "settings": "Settings",
-      "support": "Support",
-      "discover": "Discover"
+      "register": "Sync to cloud",
+      "settings": "Settings for retards",
+      "support": "Support tha homies",
+      "discover": "Discover some shit"
     }
   },
   "notFound": {
     "badge": "Not found",
     "goHome": "Back to home",
-    "reloadButton": "Try again",
-    "message": "We looked everywhere: under the bins, in the closet, behind the proxy but ultimately couldn't find the page you are looking for. (ಥ﹏ಥ)",
-    "title": "Couldn't find that page"
+    "reloadButton": "Try again 👿",
+    "message": "We looked everywhere: under your bed, in the closet where Jimmies hiding, behind your moms house but ultimately couldn't find what the fuck you are looking for. (ಥ﹏ಥ)",
+    "title": "Couldn't find that shit"
   },
   "downtimeNotice": {
     "badge": "Issues",
     "goHome": "Go home",
-    "message": "sudo-flix.lol is experiencing issues with some providers again, if you cant find or play a show please change the source. Expect this error to persist throughout the below times.",
-    "timeFrame": "<bold>March 31th 11:00 PM - 5:00 AM EST</bold>",
+    "message": "Duhh-Mov is experiencing issues with some providers again, if you cant find or play a show please change the source. Expect this error to persist throughout the below times.",
+    "timeFrame": "",
     "title": "Provider issues"
   },
   "onboarding": {
     "defaultConfirm": {
       "cancel": "Cancel",
       "confirm": "Use default setup",
-      "description": "The default setup does not have the best streams and can be unbearably slow. ( ͠° ͟ʖ ͡°)",
+      "description": "The default setup does not have the best streams and can be unbearably slow. Slow = No Hoes ( ͠° ͟ʖ ͡°)",
       "title": "Are you sure?"
     },
     "extension": {
       "back": "Go back",
-      "explainer": "Using the browser extension, you can get the best streams we have to offer. With just a simple install. 👌",
-      "explainerIos": "Unfortunately, the browser extension is not supported on iOS, Press <bold>Go back</bold> to choose another option.",
+      "explainer": "Using the browser extension, you can get the best streams we have to offer. This means that the hoes will lay on their back and let you tap!! 👌",
+      "explainerIos": "Unfortunately, the browser extension is not supported on iOS because fuck iPhones, Press <bold>Go back</bold> to choose another option.",
       "extensionHelp": "If you've installed the extension but it's not detected, <bold>open the extension through your browsers extension menu</bold> and follow the steps on screen.",
       "linkChrome": "Install Chrome extension",
-      "linkFirefox": "Install Firefox extension",
-      "notDetecting": "Installed on Chrome, but the site isn't detecting it? Try reloading the page!",
-      "notDetectingAction": "Reload page",
+      "linkFirefox": "Install Firefox extension faggot",
+      "notDetecting": "Installed on Chrome, but the site isn't detecting it? Try reloading the page you autistic fuck!",
+      "notDetectingAction": "Reload da page",
       "status": {
-        "disallowed": "Extension is not enabled for this page (,,>﹏<,,)",
-        "disallowedAction": "Enable extension",
+        "disallowed": "Extension is not enabled for this page retard",
+        "disallowedAction": "Enable da fucking extension",
         "failed": "Failed to request status",
-        "loading": "Waiting for you to install the extension",
+        "loading": "I'm waiting for you to install the extension goofy ahh",
         "outdated": "Extension version too old",
         "success": "Extension is working as expected!"
       },
@@ -253,7 +253,7 @@
     },
     "proxy": {
       "back": "Go back",
-      "explainer": "With the proxy method, you can get great quality streams by making a self-service proxy.",
+      "explainer": "With the proxy method, you can get great quality streams by making a self-service proxy. Hoes aren't guaranteed but possible.",
       "input": {
         "errorConnection": "Could not connect to proxy",
         "errorInvalidUrl": "Not a valid URL",
@@ -266,25 +266,25 @@
       "title": "Let's make a new proxy"
     },
     "start": {
-      "explainer": "To get the best streams possible, you will need to choose which streaming method you want to use.",
+      "explainer": "To get the best streams possible, you will need to choose which streaming method you want to use. (Just choose Extension)",
       "options": {
         "default": {
-          "text": "I don't want good quality streams,<0 /> <1>use the default setup ▄︻デ══━一 ʕ•͡-•ʔ</1>"
+          "text": "I don't want bitches,<0 /> <1>use the default setup ▄︻デ══━一 ʕ•͡-•ʔ</1>"
         },
         "extension": {
           "action": "Install extension",
-          "description": "Install browser extension and gain access to the best sources, but remember to enable it for this site.",
-          "quality": "Best quality",
+          "description": "Install browser extension and gain access to the best sources and some pussy, but remember to enable it for this site.",
+          "quality": "Best quality + Some Bitches",
           "title": "Browser extension"
         },
         "proxy": {
           "action": "Setup proxy",
-          "description": "Setup a free proxy in just 5 minutes and gain access to great sources...",
+          "description": "Setup a free proxy in just 5 minutes and gain access to great sources and maybe pussy?? I dont think so though",
           "quality": "Good quality",
           "title": "Custom proxy"
         }
       },
-      "title": "Let's get you setup with sudo-flix 🥳"
+      "title": "Let's get you setup with Duhh-Mov 🥳"
     }
   },
   "overlays": {
@@ -296,7 +296,7 @@
       "short": "Back"
     },
     "casting": {
-      "enabled": "Casting to device 🎬"
+      "enabled": "I casted this shit to your device!!"
     },
     "menus": {
       "downloads": {
@@ -304,7 +304,7 @@
         "copyHlsPlaylist": "Copy HLS playlist link",
         "downloadSubtitle": "Download current subtitle",
         "downloadVideo": "Download video",
-        "hlsDisclaimer": "Downloads are taken directly from the provider. sudo-flix does not have control over how the downloads are provided.<br /><br />Please note you are downloading an HLS playlist, <bold>it is not recommended to download if you are not familiar with advanced streaming formats</bold>. Try different sources for different formats.",
+        "hlsDisclaimer": "Downloads are taken directly from the provider. Duhh-Mov does not have control over how the downloads are provided.<br /><br />Please note you are downloading an HLS playlist, <bold>it is not recommended to download if you are not familiar with advanced streaming formats</bold>. Try different sources for different formats.",
         "onAndroid": {
           "1": "To download on Android, click the download button then, on the new page, <bold>tap and hold</bold> on the video, then select <bold>save</bold>.",
           "shortTitle": "Download / Android",
@@ -339,7 +339,7 @@
       "quality": {
         "automaticLabel": "Automatic quality",
         "hint": "You can try <0>switching source</0> to get different quality options.",
-        "iosNoQuality": "Due to Apple-defined (common IOS L) limitations, quality selection is not available on iOS for this source. You can try <0>switching to another source</0> to get different quality options.",
+        "iosNoQuality": "Due to Apple-defined (FUCK ALL IPHONES HAHA) limitations, quality selection is not available on iOS for this source. You can try <0>switching to another source</0> to get different quality options.",
         "title": "Quality"
       },
       "settings": {
@@ -355,16 +355,16 @@
       },
       "sources": {
         "failed": {
-          "text": "There was an error while trying to find any videos... Try a different source?",
+          "text": "There was an error while trying to find any videos... Try a different source nigger",
           "title": "Failed to scrape"
         },
         "noEmbeds": {
-          "text": "We were unable to find any embeds, please try a different source.",
+          "text": "We were unable to find any embeds, please try a different source you bitchless loser",
           "title": "No embeds found"
         },
         "noStream": {
-          "text": "This source has no streams for this movie or show. /ᐠ - ˕ -マ Ⳋ",
-          "title": "No stream :("
+          "text": "This source has no streams for this movie or show faggot. You're not getting any head now.",
+          "title": "No streams 💀"
         },
         "title": "Sources",
         "unknownOption": "Unknown"
@@ -390,71 +390,71 @@
     },
     "metadata": {
       "api": {
-        "text": "Could not load API metadata, please check your internet connection.",
+        "text": "Could not load the fucking API metadata, check your fucking wifi",
         "title": "Failed to load API metadata"
       },
       "dmca": {
         "badge": "Removed",
-        "text": "This media is no longer available due to a takedown notice or copyright claim. 😨",
+        "text": "Some fucking corporation took this shit down. So you can't watch it BOOHOO watch something else!",
         "title": "Media has been removed"
       },
       "extensionPermission": {
         "badge": "Permission Missing",
         "button": "Use extension",
-        "text": "You have the browser extension, but we need your permission to get started using the extension. (¬_¬)",
-        "title": "Configure the extension"
+        "text": "You have the browser extension, but we need your permission to use the extension. SO CLICK ALLOW GOD DAMMIT HURRY UP!!!",
+        "title": "Configure your fucking extension"
       },
       "failed": {
         "badge": "Failed",
         "homeButton": "Go home",
-        "text": "Could not load the media's metadata from TMDB. Please check whether TMDB is down or blocked on your internet connection.",
+        "text": "Media's metadata couldn't be loaded. Either ur wifi is shit, or TMDB is down. Regardless you get 0 hoes.",
         "title": "Failed to load metadata"
       },
       "notFound": {
         "badge": "Not found",
         "homeButton": "Back to home",
-        "text": "We couldn't find the media you requested. Either it's been removed or you tampered with the URL (naughty, naughty).",
+        "text": "We couldn't find the media you requested. Either it's been removed or you tampered with the URL (kys nigger).",
         "title": "Couldn't find that media."
       }
     },
     "nextEpisode": {
-      "replay": "Replay",
-      "next": "Next episode",
-      "nextSeason": "Next season"
+      "replay": "Replay😱",
+      "next": "Next episode 👿",
+      "nextSeason": "Next season🍃"
     },
     "playbackError": {
       "badge": "Playback error",
       "errors": {
-        "errorAborted": "The fetching of the media was aborted by the user's request.",
-        "errorDecode": "Despite having previously been determined to be usable, an error occurred while trying to decode the media resource, resulting in an error.",
-        "errorGenericMedia": "Unknown media error occurred.",
-        "errorNetwork": "Some kind of network error occurred which prevented the media from being successfully fetched, despite having previously been available.",
+        "errorAborted": "The fetching of the media was aborted (like a baby) by the user's request.",
+        "errorDecode": "Despite having previously been determined to be usable, an error occurred while trying to decode the media resource which has resulted in a fucking error.",
+        "errorGenericMedia": "Unknown media bullshit error occurred.",
+        "errorNetwork": "Some kind of network error occurred which prevented the media from being successfully fetched, despite having previously been available. Try again beaner",
         "errorNotSupported": "The media or media provider object is not supported."
       },
       "homeButton": "Go home",
-      "text": "There was an error trying to play the media 😖. Please try again!",
+      "text": "There was an error trying to play the media 💢. Please try again!",
       "title": "Failed to play video!"
     },
     "scraping": {
       "items": {
         "failure": "Error occurred",
-        "notFound": "Doesn't have the video (╥﹏╥)",
-        "pending": "Checking for videos..."
+        "notFound": "I don't have the video boohoo (If this persists dm me)",
+        "pending": "Checking for some fuckin' streams"
       },
       "notFound": {
         "badge": "Not found",
         "detailsButton": "Show details",
         "homeButton": "Go home",
         "discoverButton": "Discover more",
-        "text": "We have searched through our providers and cannot find the media you are looking for! We do not host the media and have no control over what is available. Please click 'Show details' below for more details.",
-        "title": "We couldn't find that"
+        "text": "I checked my sources, and discovered I don't have what you want! Go fuck yourself BAHAHAHAHA. YOU HAVE 0 HOES HAHAHAHAHAHHAAHHAHHAHA",
+        "title": "I couldn't find that shit again."
       },
       "extensionFailure": {
         "badge": "Extension disabled",
         "homeButton": "Go home",
         "enableExtension": "Enable extension",
         "title": "Please enable the extension",
-        "text": "You've installed the sudo-flix extension. To start using it, you need to enable the extension for this site."
+        "text": "You've installed the fucking extension. To start using it, you need to enable the extension for this site you moron."
       }
     },
     "time": {
@@ -464,40 +464,40 @@
       "shortRemaining": "-{{timeLeft}}"
     },
     "turnstile": {
-      "description": "Please prove your humanity by completing the quick challenge, this is to keep sudo-flix safe.",
-      "error": "Failed to verify your humanity! Please try again.",
+      "description": "Please prove your not a faggot complete this quick challenge, this is to keep YOU from ddosing MY fucking site.",
+      "error": "Failed to verify your humanity.. what a fucking loser. try again.",
       "title": "Are You a Robot 🤖?",
-      "verifyingHumanity": "Verifying your humanity... (^▽^)👍"
+      "verifyingHumanity": "Verifying your non-homosexuality!👍"
     }
   },
   "support": {
     "title": "Support",
-    "text": "sudo-flix is designed to be as user-friendly as possible. However, people still have questions and issues. This page is here to help resolve these shortcomings",
+    "text": "My site is designed to be as goofy as possible. However, people still have questions and issues because you probably have down-syndrome. This page is here to help resolve your autism!!",
     "q1": {
-      "body": "Well, you can join the official <0>sudo-flix discord</0> and ask questions there or you can email the one provided at the bottom of this page.",
+      "body": "Therapy?? Idk. I ain't a doctor",
       "title": "Where can I get help?"
     },
     "q2": {
-      "body": "We have a <0>GitHub</0> where you can create a detailed issue in our repository. Additionally, if you wish, you can create a pull request to fix the issue yourself.",
+      "body": "Just dm me?? If you're using this you obviously know me retard",
       "title": "How can I report a bug or issue?"
     }
   },
   "jip": {
     "title": "Jip",
-    "text": "sudo-flix didn't fall out of a coconut tree, it was made mostly by a single person (a very epic one at that).",
+    "text": "Duhh-Mov didn't fall out of the fucking sky, it was made mostly by a single person (a very amazing, cool, and rizzy one at that).",
     "q1": {
-      "body": "Well, you can join the official <0>sudo-flix discord</0> and ask questions there or you can email the one provided at the bottom of this page.",
-      "title": "Where can I get help?"
+      "body": "100% guarantee at getting you some hoesss",
+      "title": "Will this site get me some bitches?"
     },
     "q2": {
-      "body": "We have a <0>GitHub</0> where you can create a detailed issue in our repository. Additionally, if you wish, you can create a pull request to fix the issue yourself.",
-      "title": "How can I report a bug or issue?"
+      "body": "Yeah, what he said",
+      "title": "Kys"
     }
   },
   "screens": {
     "dmca": {
-      "text": "Welcome to sudo-flix's DMCA contact page. If you believe your copyrighted work has been improperly used on our platform (😢), please send a detailed DMCA notice to: <bold>{{dmca}}</bold> below. Please include a description of the copyrighted material, your contact details, and a statement of good faith belief. We're committed to resolving these matters promptly and appreciate your cooperation.",
-      "title": "DMCA :("
+      "text": "Welcome to the DMCA contact page. If you believe your copyrighted work has been improperly used on our platform (😢), please send a detailed DMCA notice to: <bold>{{dmca}}</bold> below. Please include a description of the copyrighted material, your contact details, and a statement of good faith belief. We're committed to resolving these matters promptly and appreciate your cooperation.",
+      "title": "DMCA for legal niggas"
     },
     "loadingApp": "Loading application",
     "loadingUser": "Loading your profile",
@@ -506,11 +506,11 @@
       "reset": "Reset custom server",
       "text": "Failed to load your profile",
       "reload": "Reload",
-      "textWithReset": "Failed to load your profile from your custom server, want to reset back to the default server?"
+      "textWithReset": "Failed to load your fucking profile from your custom server, want to reset back to the default server?"
     },
     "migration": {
       "failed": "Failed to migrate your data. 😿",
-      "inProgress": "Please hold, we are migrating your data. This shouldn't take long..."
+      "inProgress": "Please hold, we are migrating your data. This shouldn't take long.. even if it does what are you gonna do huh?"
     }
   },
   "settings": {
@@ -523,14 +523,14 @@
       },
       "admin": {
         "title": "Admin panel",
-        "text": "Utilize tools made for testing sudo-flix's condition.",
+        "text": "Utilize tools made for testing the site's condition.",
         "button": "Check it out"
       },
       "actions": {
         "delete": {
           "button": "Delete account",
           "confirmButton": "Delete account",
-          "confirmDescription": "Are you sure you want to delete your account? All your data will be lost! ૮₍˶Ó﹏Ò ⑅₎ა",
+          "confirmDescription": "Are you sure you want to delete your account? All your data will be lost! OH JEEPERS CREEPERS!!!",
           "confirmTitle": "Are you sure?",
           "text": "This action is irreversible. All data will be deleted and nothing can be recovered.",
           "title": "Delete account"
@@ -553,7 +553,7 @@
       "register": {
         "cta": "Get started",
         "text": "Share your watch progress between devices and keep them synced. ( ̧⸝⸝⍢⸝⸝)ෆ",
-        "title": "Sync to the sudo-cloud"
+        "title": "Sync to the da cloud"
       },
       "title": "Account"
     },
@@ -571,7 +571,7 @@
     },
     "connections": {
       "server": {
-        "description": "If you would like to connect to a custom backend to store your data, enable this and provide the URL. <0>Instructions.</0>",
+        "description": "If you would like to connect to a custom backend to store your data, enable this and provide the URL smartass. <0>Instructions.</0>",
         "label": "Custom server",
         "urlLabel": "Custom server URL"
       },
@@ -581,7 +581,7 @@
           "description": "It seems that one or more items in this setup need your attention.",
           "title": "Something needs your attention 😱"
         },
-        "itemError": "There is something wrong with this setting. Go through setup again to fix it. (ᴗ_ ᴗ。)",
+        "itemError": "There is something wrong with this setting. Go through setup again to fix it.",
         "items": {
           "default": "Default setup",
           "extension": "Extension",
@@ -589,27 +589,27 @@
         },
         "redoSetup": "Redo setup",
         "successStatus": {
-          "description": "All things are in place for you to start watching your favorite media. (๑>◡<๑)",
-          "title": "Everything is set up!"
+          "description": "All things are in place for you to start watching your shit. KYS",
+          "title": "Everything is set the fuck up!"
         },
         "unsetStatus": {
-          "description": "Please click the button to the right to start the setup process.",
-          "title": "You haven't gone through setup"
+          "description": "Please click the button to the right to start the fucking setup process.",
+          "title": "You haven't gone through the setup you nigger!"
         }
       },
       "title": "Connections",
       "workers": {
-        "addButton": "Add new worker",
-        "description": "To make the application function, all traffic is routed through proxies. Enable this if you want to bring your own workers. <0>Instructions.</0>",
-        "emptyState": "No workers yet (｡•́︿•̀｡), add one below",
-        "label": "Use custom proxy workers",
-        "urlLabel": "Worker URLs",
+        "addButton": "Add new slave!",
+        "description": "To make the application function, all traffic is routed through proxies. Enable this if you want to bring your own slaves!. <0>Instructions.</0>",
+        "emptyState": "No slaves yet, add one below",
+        "label": "Use custom proxy slaves",
+        "urlLabel": "slaves URLs",
         "urlPlaceholder": "https://"
       }
     },
     "preferences": {
       "language": "Application language",
-      "languageDescription": "Language applied to the entire application, only English has silly stuff 🙁.",
+      "languageDescription": "Language applied to the entire application, only English has silly, and racist stuff because I hate mexicans!!.",
       "thumbnail": "Generate thumbnails",
       "thumbnailDescription": "Most of the time, videos don't have thumbnails. You can enable this setting to generate them on the fly but they can make your video slower.",
       "thumbnailLabel": "Generate thumbnails",
